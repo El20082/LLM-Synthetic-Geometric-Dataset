@@ -1,0 +1,1 @@
+{"shape": "quadrilateral", "num_sides": 4, "num_lines": 4, "num_points": 4, "num_sides_with_points": 0, "num_points_on_sides": [], "vertices": [[0, 17], [17, 18], [18, 12], [11, 2]], "bound_edges": [[[11, 2], [0, 17]], [[0, 17], [17, 18]], [[17, 18], [18, 12]], [[18, 12], [11, 2]]], "points_on_edge": [], "inner_edges": []}
