@@ -1,0 +1,1 @@
+{"shape": "pentagon", "num_sides": 5, "num_lines": 5, "num_points": 5, "num_sides_with_points": 0, "num_points_on_sides": [], "vertices": [[1, 15], [9, 17], [20, 11], [20, 6], [12, 3]], "bound_edges": [[[12, 3], [1, 15]], [[1, 15], [9, 17]], [[9, 17], [20, 11]], [[20, 11], [20, 6]], [[20, 6], [12, 3]]], "points_on_edge": [], "inner_edges": []}
