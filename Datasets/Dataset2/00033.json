@@ -1,0 +1,1 @@
+{"shape": "triangle", "num_sides": 3, "num_lines": 3, "num_points": 3, "num_sides_with_points": 0, "num_points_on_sides": [], "vertices": [[0, 17], [20, 19], [18, 5]], "bound_edges": [[[18, 5], [0, 17]], [[0, 17], [20, 19]], [[20, 19], [18, 5]]], "points_on_edge": [], "inner_edges": []}
