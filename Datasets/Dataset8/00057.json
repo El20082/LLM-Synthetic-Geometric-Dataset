@@ -1,0 +1,1 @@
+{"shape": "hexagon", "num_sides": 6, "num_lines": 6, "num_points": 6, "num_sides_with_points": 0, "num_points_on_sides": [], "vertices": [[0, 2], [2, 20], [15, 20], [19, 13], [15, 2], [6, 0]], "bound_edges": [[[6, 0], [0, 2]], [[0, 2], [2, 20]], [[2, 20], [15, 20]], [[15, 20], [19, 13]], [[19, 13], [15, 2]], [[15, 2], [6, 0]]], "points_on_edge": [], "inner_edges": []}
